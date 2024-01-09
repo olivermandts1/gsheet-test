@@ -1,5 +1,8 @@
-altair
-numpy
+streamlit>=1.28.0
 pandas
+numpy
+openai
+st-gsheets-connection
+altair
 pydeck
-streamlit
+
